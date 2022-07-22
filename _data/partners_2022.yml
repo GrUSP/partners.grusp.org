@@ -7,12 +7,12 @@ media:
   - name: Devmy
     img: devmy.png
     url: https://devmy.it/
-    tags: [ idi, cssday, jsday, phpday, uxday, vueday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, containerday, reactjsday, angularday, laravelday ]
     
   - name: Tech Conferences Italy
     img: tci.png
     url: https://tech-conferences-italy.vercel.app/
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: Develer
     img: develer.svg
@@ -77,7 +77,7 @@ media:
   - name: Presenta
     img: presenta.png
     url: https://www.presenta.cc
-    tags: [ uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ uxday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
 #  - name: dotVue
 #    img: dotvue.svg
@@ -93,12 +93,12 @@ community:
   - name: Superheroes Valley
     img: superheroes.png
     url: https://www.superheroesvalley.fun/
-    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
 
   - name: This is Learning
     img: til.png
     url: https://dev.to/this-is-learning
-    tags: [ jsday, phpday, vueday, rubyday, reactjsday, angularday ]
+    tags: [ jsday, phpday, vueday, rubyday, reactjsday, angularday, laravelday ]
 
   - name: Angular Oslo
     img: angularoslo.png
@@ -108,22 +108,22 @@ community:
   - name: WTM Italia
     img: wtmitalia.png
     url: https://twitter.com/wtmitalia
-    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
 
   - name: PUG Milano
     img: pugmilano.svg
     url: https://milano.grusp.org/
     tags: [ phpday ]
 
-  - name: Pug Romagna
+  - name: PUG Romagna
     img: pugromagna.png
     url: https://www.meetup.com/it-IT/PUG-Romagna-PHP-User-Group-Romagnolo/
-    tags: [ phpday ]
+    tags: [ phpday, laravelday ]
 
   - name: Schrodinger Hat
     img: sh.png
     url: https://www.schrodinger-hat.it/
-    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
 
   - name: GDG Bari
     img: gdgbari.png
@@ -133,7 +133,7 @@ community:
   - name: GDG Campobasso
     img: gdgcampobasso.png
     url: https://gdg.community.dev/gdg-campobasso/
-    tags: [ cssday, jsday, phpday, vueday, containerday, reactjsday, angularday ]
+    tags: [ cssday, jsday, phpday, vueday, containerday, reactjsday, angularday, laravelday ]
 
   - name: MUG
     img: mug.svg
@@ -143,7 +143,7 @@ community:
   - name: AWS UG Catania
     img: awscatania.png
     url: https://www.meetup.com/it-IT/AWS-User-Group-Catania/
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, containerday, reactjsday, angularday, laravelday ]
     
   - name: BolognaJS
     img: bolognajs.svg
@@ -153,7 +153,7 @@ community:
   - name: Dianacodes
     img: dianacodes.svg
     url: https://www.dianabernabei.com/
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: Django Girls Italia
     img: djangogirls.png
@@ -173,7 +173,7 @@ community:
   - name: PUG Roma
     img: pugroma.svg
     url: https://roma.grusp.org/
-    tags: [ phpday ]
+    tags: [ phpday, laravelday ]
     
   - name: Laravel Italia
     img: laravelitalia.png
@@ -213,7 +213,7 @@ community:
   - name: Gitbar
     img: gitbar.png
     url: https://www.gitbar.it
-    tags: [ idi, cssday, jsday, phpday, vueday, containerday, reactjsday ]
+    tags: [ idi, cssday, jsday, phpday, vueday, containerday, reactjsday, laravelday ]
     
   - name: XPUG Bergamo
     img: xpugbergamo.svg
@@ -228,12 +228,12 @@ community:
   - name: GDG Pescara
     img: gdgpescara.svg
     url: https://www.gdgpescara.it
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: TomorrowDevs
     img: tomorrowdevs.png
     url: https://www.tomorrowdevs.com
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: SheTech
     img: shetech.png
@@ -263,12 +263,12 @@ community:
   - name: Coding Bunker
     img: codingbunker.png
     url: https://www.codingbunker.it/
-    tags: [ cssday, jsday, phpday, vueday, reactjsday, angularday ]
+    tags: [ cssday, jsday, phpday, vueday, reactjsday, angularday, laravelday ]
     
   - name: GDG Venezia
     img: gdgvenezia.svg
     url: https://gdg.community.dev/gdg-venezia/
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: ngVikings
     img: ngviking.png
@@ -298,7 +298,7 @@ community:
   - name: JS Poland
     img: jspoland.png
     url: https://js-poland.pl/
-    tags: [ jsday, vueday, reactjsday, angularday ]
+    tags: [ jsday, vueday, reactjsday, angularday, laravelday ]
     
   - name: Angular Master Podcast
     img: angularmasterpodcast.png
@@ -388,12 +388,12 @@ community:
   - name: 42Roma Luiss
     img: 42romaluiss.svg
     url: https://42roma.it/
-    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: CTO Mastermind
     img: ctomastermind.png
     url: https://www.ctomastermind.it
-    tags: [ idi, jsday, phpday, containerday, reactjsday, angularday ]
+    tags: [ idi, jsday, phpday, containerday, reactjsday, angularday, laravelday ]
     
   - name: React Bolivia
     img: reactbolivia.png
@@ -418,7 +418,7 @@ community:
   - name: Frontenders Ticino
     img: frontendersticino.png
     url: https://twitter.com/FrontEndersTI
-    tags: [ cssday, jsday, phpday, vueday, rubyday, reactjsday, angularday ]
+    tags: [ cssday, jsday, phpday, vueday, rubyday, reactjsday, angularday, laravelday ]
     
   - name: PyCon Italia
     img: pytonit.svg
@@ -443,12 +443,12 @@ community:
   - name: PHP Perú
     img: phpdayperu.png
     url: https://www.meetup.com/es/Meetup-de-PHP-en-Lima
-    tags: [ idi, cssday, jsday, phpday, vueday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, vueday, containerday, reactjsday, angularday, laravelday ]
     
   - name: Hypernova Società Cooperativa
     img: hypernova.png
     url: https://hypernovacoop.retedoc.net/
-    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: Edgemony
     img: edgemony.png
@@ -548,17 +548,17 @@ community:
   - name: PUG Rovigo
     img: pugrovigo.png
     url: https://rovigo.grusp.org/
-    tags: [ phpday ]
+    tags: [ phpday, laravelday ]
     
   - name: ZgPHP
     img: zgphp.svg
     url: https://zgphp.org/
-    tags: [ phpday, containerday ]
+    tags: [ phpday, containerday, laravelday ]
     
   - name: Pensieri in codice
     img: pensieriincodice.png
     url: https://pensieriincodice.it
-    tags: [ phpday ]
+    tags: [ phpday, laravelday ]
     
   - name: Angular Zurich
     img: angularzurich.svg
@@ -568,7 +568,7 @@ community:
   - name: Bulgaria PHP User Group
     img: bulgariapug.png
     url: https://www.facebook.com/groups/375003652632424
-    tags: [ phpday ]
+    tags: [ phpday, laravelday ]
     
   - name: FWDays
     img: fwdays.png
