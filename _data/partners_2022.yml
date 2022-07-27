@@ -178,7 +178,7 @@ community:
   - name: Laravel Italia
     img: laravelitalia.png
     url: https://laravel-italia.it/
-    tags: [ idi, jsday, phpday, vueday, containerday, reactjsday, angularday ]
+    tags: [ idi, jsday, phpday, vueday, containerday, reactjsday, angularday, laravelday ]
     
   - name: GDG Trento
     img: gdg-trento.svg
