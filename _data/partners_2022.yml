@@ -610,10 +610,10 @@ community:
     url: https://flutterheroes.com/
     tags: [ vueday, rubyday, containerday, reactjsday ]
     
-  - name: No Code Heroes
-    img: nocodeheroes.png
-    url: https://nocodeheroes.it/
-    tags: [ uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+  - name: React Native Heroes
+    img: reactnatveheroes.svg
+    url: https://reactnativeheroes.com/
+    tags: [ vueday, rubyday, laravelday ]
     
   - name: The Currencies
     img: thecurrencies.png
