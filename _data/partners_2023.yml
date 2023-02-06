@@ -9,10 +9,15 @@ media:
     url: https://www.nodetlv.com/
     tags: [ jsday ]
     
-    - name: ReactNext
+  - name: ReactNext
     img: reactnext.svg
     url: https://www.react-next.com/
     tags: [ jsday, reactjsday ]
+    
+  - name: Krazydev FRIULI VENEZIA GIULIA
+    img: krazydev.svg
+    url: https://krazydev.it/
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, vueday, angularday ]
 
 community:
 #    - name: GDG Trento
@@ -20,32 +25,27 @@ community:
 #      url: http://gdgtrento.it/
 #      tags: [ cssday, rubyday, vueday, phpday, idi, jsday, containerday, angularday ]
 
-    - name: Schrödinger Hat
+  - name: Schrödinger Hat
     img: sh.png
     url: https://www.schrodinger-hat.it/
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
-    - name: GDG Pescara
+  - name: GDG Pescara
     img: gdgpescara.svg
     url: https://gdgpescara.it/
     tags: [ idi, uxday, containerday, devsecops, reactjsday, angularday ]
     
-    - name: PLUG
+  - name: PLUG
     img: plug.png
     url: https://www.pignolalug.it/
     tags: [ idi, containerday, devsecops, reactjsday, angularday ]
     
-    - name: Bologna Front End
+  - name: Bologna Front End
     img: bolognafrontend.svg
     url: https://bolognafrontend.it/
     tags: [ cssday, jsday, uxday ]
     
-    - name: SheTech
+  - name: SheTech
     img: shetech.png
     url: https://shetechitaly.org/
-    tags: [ cssday, jsday, phpday, uxday, reactjsday ]
-        
-    - name: Krazydev FRIULI VENEZIA GIULIA
-    img: krazydev.svg
-    url: https://krazydev.it/
-    tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, vueday, angularday ]
+    tags: [ cssday, jsday, phpday, uxday, reactjsday ]        
