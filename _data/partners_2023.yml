@@ -48,4 +48,19 @@ community:
   - name: SheTech
     img: shetech.png
     url: https://shetechitaly.org/
-    tags: [ cssday, jsday, phpday, uxday, reactjsday ]        
+    tags: [ cssday, jsday, phpday, uxday, reactjsday ]
+    
+  - name: BolognaJS
+    img: bolognajs.svg
+    url: https://www.bolognajs.com
+    tags: [ jsday ]
+    
+  - name: Devmy
+    img: devmy.png
+    url: https://devmy.it/
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
+    
+  - name: AgileItalia
+    img: AgileItaliaMagazine.svg
+    url: https://agileitalia.agileforitaly.com
+    tags: [ idi ]
