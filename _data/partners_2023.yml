@@ -18,6 +18,11 @@ media:
     img: krazydev.svg
     url: https://krazydev.it/
     tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, vueday, angularday ]
+    
+  - name: Devmy
+    img: devmy.png
+    url: https://devmy.it/
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
 
 community:
 #    - name: GDG Trento
@@ -55,12 +60,47 @@ community:
     url: https://www.bolognajs.com
     tags: [ jsday ]
     
-  - name: Devmy
-    img: devmy.png
-    url: https://devmy.it/
-    tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
-    
   - name: AgileItalia
     img: AgileItaliaMagazine.svg
     url: https://agileitalia.agileforitaly.com
     tags: [ idi ]
+    
+  - name: NG Heros
+    img: ngheros.png
+    url: https://www.meetup.com/ng-heroes/
+    tags: [ jsday, angularday ]
+    
+  - name: AWS UG Catania
+    img: awscatania.png
+    url: https://www.meetup.com/it-IT/AWS-User-Group-Catania/
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, angularday ]
+    
+  - name: Hi!Founders 
+    img: hifounders.svg
+    url: https://www.hifounders.com/
+    tags: [ idi, uxday, laravelday ]
+    
+  - name: TheRedCode 
+    img: theredcode.png
+    url: https://www.theredcode.it/
+    tags: [ idi, cssday, jsday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: Agile Community Torino 
+    img: agiletorino.svg
+    url: https://agile.to.it/
+    tags: [ idi, containerday, devsecops ]
+    
+  - name: DevRomagna 
+    img: devromagna.png
+    url: https://www.meetup.com/it-IT/DevRomagna/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: GDG Cloud Milano 
+    img: gdgcloudmilano.png
+    url: https://gdg.community.dev/gdg-cloud-milano/
+    tags: [ idi, jsday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
+    
+  - name: GDG Pisa 
+    img: gdgpisa.png
+    url: https://gdgpisa.it/
+    tags: [ idi, cssday, jsday, rubyday, containerday, devsecops, reactjsday, angularday, blockchainday ]
