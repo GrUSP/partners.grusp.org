@@ -104,3 +104,19 @@ community:
     img: gdgpisa.png
     url: https://gdgpisa.it/
     tags: [ idi, cssday, jsday, rubyday, containerday, devsecops, reactjsday, angularday, blockchainday ]
+    
+  - name: firenze.dev 
+    img: firenzedev.svg
+    url: https://firenze.dev/
+    tags: [ idi, cssday, jsday, phpday, reactjsday, laravelday, blockchainday ]
+    
+  - name: Django Girls Italia 
+    img: djangogirl.png
+    url: https://twitter.com/djangogirlsIT
+    tags: [ idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
+    
+  - name: Fuzzy Brains 
+    img: fuzzybrains.svg
+    url: https://www.fuzzybrains.org/it/
+    tags: [ idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
+    
