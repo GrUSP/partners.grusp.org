@@ -120,7 +120,3 @@ community:
     url: https://www.fuzzybrains.org/it/
     tags: [ idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
     
-  - name: VMEngine srl 
-    img: vmengine.png
-    url: https://www.vmengine.net/
-    tags: [ idi, phpday, containerday, devsecops, reactjsday, angularday, blockchainday ]
