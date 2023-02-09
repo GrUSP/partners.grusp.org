@@ -111,7 +111,7 @@ community:
     tags: [ idi, cssday, jsday, phpday, reactjsday, laravelday, blockchainday ]
     
   - name: Django Girls Italia 
-    img: djangogirl.png
+    img: djangogirls.png
     url: https://twitter.com/djangogirlsIT
     tags: [ idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
     
