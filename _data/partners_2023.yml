@@ -23,6 +23,8 @@ media:
     img: devmy.png
     url: https://devmy.it/
     tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
+    
+
 
 community:
 #    - name: GDG Trento
@@ -120,3 +122,62 @@ community:
     url: https://www.fuzzybrains.org/it/
     tags: [ idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
     
+  - name: Develer srl 
+    img: develer.svg
+    url: https://www.develer.com/
+    tags: [ uxday, reactjsday ]
+    
+  - name: Vuejs Israel 
+    img: vuejsisrael.png
+    url: https://www.vuejsisrael.com/
+    tags: [ jsday, vueday ]
+  
+  - name: Smashing Members 
+    img: smashingmembersmag.svg
+    url: https://www.smashingmagazine.com/membership/
+    tags: [ jsday, reactjsday ]
+    
+  - name: BEL Vue 
+    img: belvue.svg
+    url: https://www.meetup.com/belvue-be/
+    tags: [ jsday, vueday ]
+    
+  - name: Gamedev.js 
+    img: gamedevjs.png
+    url: https://gamedevjs.com/
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday ] 
+    
+  - name: Gamedev.js Weekly 
+    img: gamedevjsweekly.svg
+    url: https://gamedevjsweekly.com/
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday ] 
+    
+  - name: js13kGames 
+    img: js13kgames.svg
+    url: https://js13kgames.com
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday ]
+
+  - name: Rzeszów Ruby User Group 
+    img: rzeszowrug.svg
+    url: http://rrug.pl/
+    tags: [ rubyday ]
+    
+  - name: Coding Bunker 
+    img: codingbunker.png
+    url: https://www.codingbunker.it/
+    tags: [ cssday, jsday, phpday, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: WeAreDevelopers GmbH 
+    img: wearedevelopers.svg
+    url: https://www.wearedevelopers.com/
+    tags: [ jsday, phpday, uxday ]
+    
+  - name: "BeJS : Belgian JavaScript Community"
+    img: bejs.png
+    url: https://www.bejs.io/conf
+    tags: [ jsday, reactjsday ]
+    
+  - name: UX/UI Designer Italia 
+    img: uxuidesigneritalia.svg
+    url: https://www.uxuidesigner.org/
+    tags: [ cssday, jsday, uxday, reactjsday ]
