@@ -181,3 +181,8 @@ community:
     img: uxuidesigneritalia.svg
     url: https://www.uxuidesigner.org/
     tags: [ cssday, jsday, uxday, reactjsday ]
+
+  - name: StopCoding
+    img: stopcoding.png
+    url: https://www.stopcoding.it/
+    tags: [ idi ]
