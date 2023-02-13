@@ -55,7 +55,7 @@ community:
   - name: SheTech
     img: shetech.png
     url: https://shetechitaly.org/
-    tags: [ cssday, jsday, phpday, uxday, reactjsday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, reactjsday ]
     
   - name: BolognaJS
     img: bolognajs.svg
