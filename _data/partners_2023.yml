@@ -186,3 +186,13 @@ community:
     img: stopcoding.png
     url: https://www.stopcoding.it/
     tags: [ idi ]
+    
+  - name: MUG - Marca User Group
+    img: mug.svg
+    url: https://m-u-g.github.io/
+    tags: [ idi, cssday, jsday, uxday, reactjsday ]
+    
+  - name: Angular Rome
+    img: angularrome.svg
+    url: https://twitter.com/AngularRome
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]   
