@@ -27,10 +27,11 @@ media:
 
 
 community:
-#    - name: GDG Trento
-#      img: gdg-trento.svg
-#      url: http://gdgtrento.it/
-#      tags: [ cssday, rubyday, vueday, phpday, idi, jsday, containerday, angularday ]
+
+  - name: GDG Trento
+    img: gdg-trento.svg
+    url: http://gdgtrento.it/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
   - name: Schrödinger Hat
     img: sh.png
@@ -195,4 +196,9 @@ community:
   - name: Angular Rome
     img: angularrome.svg
     url: https://twitter.com/AngularRome
-    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]   
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: Sherpa Community
+    img: sherpa.svg
+    url: https://sherpadesign.it/
+    tags: [ cssday, jsday, uxday ]
