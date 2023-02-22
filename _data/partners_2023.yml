@@ -24,7 +24,15 @@ media:
     url: https://devmy.it/
     tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
     
-
+  - name: No Fluff Jobs
+    img: nofluffjobs.svg
+    url: https://nofluffjobs.com/events
+    tags: [ jsday, phpday, rubyday, reactjsday, vueday, angularday ]
+    
+  - name: Product Management Day
+    img: productmanday.svg
+    url: https://www.productmanagementday.com/
+    tags: [ idi, uxday, containerday, devsecops ]
 
 community:
 
@@ -186,7 +194,7 @@ community:
   - name: StopCoding
     img: stopcoding.png
     url: https://www.stopcoding.it/
-    tags: [ idi ]
+    tags: [ idi, uxday, containerday, devsecops ]
     
   - name: MUG - Marca User Group
     img: mug.svg
