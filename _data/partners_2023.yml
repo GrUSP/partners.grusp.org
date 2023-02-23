@@ -26,7 +26,7 @@ media:
     
   - name: No Fluff Jobs
     img: nofluffjobsblack.svg
-    url: https://nofluffjobs.com/events
+    url: https://nofluffjobs.com/?utm_source=partner_website&utm_medium=logo&utm_campaign=patronage&utm_term=&utm_content=grusp
     tags: [ jsday, phpday, rubyday, reactjsday, vueday, angularday ]
     
   - name: Product Management Day
@@ -220,3 +220,8 @@ community:
     img: kcditaly.svg
     url: https://community.cncf.io/kcd-italy/
     tags: [ idi, containerday, devsecops ]
+    
+  - name: LemonSaltStudio
+    img: lemonsaltstudio.png
+    url: https://www.lemonsalt.studio/
+    tags: [ rubyday, containerday, reactjsday, laravelday, vueday, angularday ]
