@@ -25,7 +25,7 @@ media:
     tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
     
   - name: No Fluff Jobs
-    img: nofluffjobs.svg
+    img: nofluffjobsblack.svg
     url: https://nofluffjobs.com/events
     tags: [ jsday, phpday, rubyday, reactjsday, vueday, angularday ]
     
