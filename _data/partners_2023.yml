@@ -33,6 +33,11 @@ media:
     img: productmanday.svg
     url: https://www.productmanagementday.com/
     tags: [ idi, uxday, containerday, devsecops ]
+    
+  - name: Hypernova Soc. Coop.
+    img: hypernova.png
+    url: #
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
 community:
 
@@ -225,3 +230,8 @@ community:
     img: lemonsaltstudio.png
     url: https://www.lemonsalt.studio/
     tags: [ rubyday, containerday, reactjsday, laravelday, vueday, angularday ]
+    
+  - name: PyCon Italia
+    img: pyconitalia.svg
+    url: https://pycon.it/en
+    tags: [ idi, cssday, jsday, phpday, rubyday, containerday, reactjsday, vueday, angularday ]
