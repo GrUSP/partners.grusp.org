@@ -36,7 +36,7 @@ media:
     
   - name: Hypernova Soc. Coop.
     img: hypernova.png
-    url: #
+    url: "#"
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
 community:
