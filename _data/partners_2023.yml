@@ -74,7 +74,7 @@ community:
   - name: BolognaJS
     img: bolognajs.svg
     url: https://www.bolognajs.com
-    tags: [ jsday ]
+    tags: [ cssday, jsday ]
     
   - name: AgileItalia
     img: AgileItaliaMagazine.svg
