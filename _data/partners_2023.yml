@@ -240,3 +240,8 @@ community:
     img: gdgpadova.png
     url: https://gdg.community.dev/gdg-padova/
     tags: [ idi, cssday, jsday, uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: Codemotion
+    img: codemotion.png
+    url: https://codemo.tech/partners
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
