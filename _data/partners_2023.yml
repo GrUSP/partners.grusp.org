@@ -235,3 +235,8 @@ community:
     img: pyconitalia.svg
     url: https://pycon.it/en
     tags: [ idi, cssday, jsday, phpday, rubyday, containerday, reactjsday, vueday, angularday ]
+    
+  - name: GDG Padova
+    img: gdgpadova.png
+    url: https://gdg.community.dev/gdg-padova/
+    tags: [ idi, cssday, jsday, uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
