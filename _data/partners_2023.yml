@@ -38,6 +38,11 @@ media:
     img: hypernova.png
     url: "#"
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: PRESENTA
+    img: presenta.png
+    url: https://www.presenta.cc/
+    tags: [ uxday, rubyday, containerday, devsecops, reactjsday, vueday, angularday ]
 
 community:
 
