@@ -69,7 +69,7 @@ community:
   - name: PLUG
     img: plug.png
     url: https://www.pignolalug.it/
-    tags: [ idi, containerday, devsecops, reactjsday, angularday ]
+    tags: [ idi, rubyday, containerday, devsecops, reactjsday, angularday ]
     
   - name: Bologna Front End
     img: bolognafrontend.svg
