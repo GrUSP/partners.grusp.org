@@ -55,6 +55,11 @@ community:
     img: gdg-trento.svg
     url: http://gdgtrento.it/
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: Sistech
+    img: sistech.png
+    url: https://sis.tech/
+    tags: [ jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
   - name: Schrödinger Hat
     img: sh.png
