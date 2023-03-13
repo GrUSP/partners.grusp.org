@@ -17,7 +17,7 @@ media:
   - name: Krazydev FRIULI VENEZIA GIULIA
     img: krazydev.svg
     url: https://krazydev.it/
-    tags: [ idi, cssday, jsday, phpday, uxday, containerday, reactjsday, vueday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, rubyday, uxday, containerday, reactjsday, vueday, angularday ]
     
   - name: Devmy
     img: devmy.png
