@@ -199,7 +199,7 @@ community:
   - name: WeAreDevelopers GmbH 
     img: wearedevelopers.svg
     url: https://www.wearedevelopers.com/
-    tags: [ jsday, phpday, uxday ]
+    tags: [ jsday, phpday, uxday, rubyday ]
     
   - name: "BeJS : Belgian JavaScript Community"
     img: bejs.png
