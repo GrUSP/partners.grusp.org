@@ -56,6 +56,26 @@ community:
     url: http://gdgtrento.it/
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
     
+  - name: Swift Heros
+    img: swiftheroes.png
+    url: https://swiftheroes.com/
+    tags: [ rubyday, containerday, reactjsday, laravelday, vueday ]
+    
+  - name: React Native Heroes
+    img: reactnativeheroes.svg
+    url: https://reactnativeheroes.com/
+    tags: [ rubyday, laravelday, vueday ]
+    
+  - name: droidcon italy
+    img: droidcon.svg
+    url: https://it.droidcon.com/
+    tags: [ idi, cssday, jsday, phpday, rubyday, containerday, reactjsday, laravelday, vueday, angularday ]
+  
+  - name: Flutter Heroes
+    img: flutterheroes.png
+    url: rubyday, containerday, reactjsday, vueday
+    tags: [ rubyday, containerday, reactjsday, vueday ]
+  
   - name: Sistech
     img: sistech.png
     url: https://sis.tech/
