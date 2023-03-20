@@ -48,6 +48,12 @@ media:
     img: kcditaly.svg
     url: https://community.cncf.io/kcd-italy/
     tags: [ idi, containerday, devsecops ]
+    
+  - name: Codemotion
+    img: codemotion.png
+    url: https://codemo.tech/partners
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
 
 community:
 
@@ -281,7 +287,4 @@ community:
     url: https://gdg.community.dev/gdg-padova/
     tags: [ idi, cssday, jsday, uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
     
-  - name: Codemotion
-    img: codemotion.png
-    url: https://codemo.tech/partners
-    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+  
