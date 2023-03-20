@@ -17,7 +17,7 @@ media:
   - name: Krazydev FRIULI VENEZIA GIULIA
     img: krazydev.svg
     url: https://krazydev.it/
-    tags: [ idi, cssday, jsday, phpday, rubyday, uxday, containerday, reactjsday, vueday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
     
   - name: Devmy
     img: devmy.png
@@ -250,7 +250,7 @@ community:
   - name: StopCoding
     img: stopcoding.png
     url: https://www.stopcoding.it/
-    tags: [ idi, uxday, containerday, devsecops ]
+    tags: [ idi, jsday, uxday, containerday, devsecops ]
     
   - name: MUG - Marca User Group
     img: mug.svg
