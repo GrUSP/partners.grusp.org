@@ -57,6 +57,11 @@ media:
 
 community:
 
+  - name: ARCHITECTA
+    img: architecta.png
+    url: https://architecta.it/
+    tags: [ uxday ]
+
   - name: GDG Trento
     img: gdg-trento.svg
     url: http://gdgtrento.it/
