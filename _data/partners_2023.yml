@@ -53,6 +53,11 @@ media:
     img: codemotion.png
     url: https://codemo.tech/partners
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: Manning
+    img: manning.png
+    url: https://www.manning.com/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
 
 community:
