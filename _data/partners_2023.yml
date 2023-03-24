@@ -61,6 +61,11 @@ community:
     img: architecta.png
     url: https://architecta.it/
     tags: [ uxday ]
+    
+  - name: Vihat
+    img: vihat.svg
+    url: https://vihattechnologies.com/
+    tags: [ jsday ]
 
   - name: GDG Trento
     img: gdg-trento.svg
