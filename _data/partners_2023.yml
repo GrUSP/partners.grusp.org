@@ -62,6 +62,16 @@ media:
 
 community:
 
+  - name: JavaScript Kingdom
+    img: javascriptkingdom.svg
+    url: https://javascriptkingdom.github.io/
+    tags: [ cssday, jsday, reactjsday, vueday, angularday ]
+
+  - name: VueJS Atens
+    img: vuejsathens.png
+    url: https://www.linkedin.com/company/vuejsathens/about/
+    tags: [ jsday, vueday ]
+
   - name: ARCHITECTA
     img: architecta.png
     url: https://architecta.it/
