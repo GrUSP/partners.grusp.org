@@ -58,6 +58,11 @@ media:
     img: manning.png
     url: https://www.manning.com/
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+    
+  - name: Packt Publishing Ltd
+    img: packt.svg
+    url: https://www.packtpub.com/
+    tags: [ jsday, phpday, containerday ]
 
 
 community:
@@ -322,4 +327,14 @@ community:
     url: https://gdg.community.dev/gdg-padova/
     tags: [ idi, cssday, jsday, uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
     
-  
+  - name: Apiumhub
+    img: apiumhub.png
+    url: https://apiumhub.com/
+    tags: [ jsday, phpday, rubyday, containerday, reactjsday ]
+
+  - name: Latina in Tech
+    img: latinaintech.svg
+    url: https://latina-in-tech.github.io/
+    tags: [ jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday ]
+    
+
