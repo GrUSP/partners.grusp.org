@@ -315,7 +315,7 @@ community:
   - name: PyCon Italia
     img: pyconitalia.svg
     url: https://pycon.it/en
-    tags: [ idi, cssday, jsday, phpday, rubyday, containerday, reactjsday, vueday, angularday ]
+    tags: [ idi, cssday, jsday, uxday, phpday, rubyday, containerday, devsecops, reactjsday, vueday, angularday ]
     
   - name: GDG Padova
     img: gdgpadova.png
