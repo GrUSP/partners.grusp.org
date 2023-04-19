@@ -337,7 +337,7 @@ community:
     url: https://latina-in-tech.github.io/
     tags: [ jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday ]
     
-  - name: "wroclove.rb"
+  - name: wroclove.rb
     img: wroclove.png
     url: https://wrocloverb.com/
     tags: [ rubyday ]
