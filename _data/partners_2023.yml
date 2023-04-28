@@ -62,7 +62,7 @@ media:
   - name: Packt Publishing Ltd
     img: packt.svg
     url: https://www.packtpub.com/
-    tags: [ jsday, phpday, containerday ]
+    tags: [ jsday, phpday, containerday, rubyday ]
 
 
 community:
