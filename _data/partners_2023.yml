@@ -346,3 +346,8 @@ community:
     img: torinodigitaldays.png
     url: https://digitaldays.it/
     tags: [ uxday, rubyday, vueday, blockchainday ]
+    
+  - name: ruby unconf
+    img: RubyUnconf.png
+    url: https://2023.rubyunconf.eu/
+    tags: [ rubyday ]
