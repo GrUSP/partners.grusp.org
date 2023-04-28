@@ -341,3 +341,8 @@ community:
     img: wroclove.png
     url: https://wrocloverb.com/
     tags: [ rubyday ]
+
+  - name: Torino Digital Days
+    img: torinodigitaldays.png
+    url: https://digitaldays.it/
+    tags: [ uxday, rubyday, vueday, blockchainday ]
