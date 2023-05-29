@@ -72,6 +72,11 @@ community:
     url: https://www.linkedin.com/company/ladiesthatuxmilan/
     tags: [ uxday ]
 
+  - name: React Norway
+    img: reactnorway.svg
+    url: https://reactnorway.com/
+    tags: [ reactjsday ]
+
   - name: TrevisoJS
     img: trevisojs.png
     url: https://medium.com/treviso-js
