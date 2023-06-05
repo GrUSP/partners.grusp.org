@@ -356,3 +356,8 @@ community:
     img: RubyUnconf.png
     url: https://2023.rubyunconf.eu/
     tags: [ rubyday ]
+    
+  - name: Helvetic Ruby
+    img: helveticruby.png
+    url: https://helvetic-ruby.ch/
+    tags: [ rubyday ]
