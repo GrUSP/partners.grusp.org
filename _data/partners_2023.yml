@@ -361,3 +361,8 @@ community:
     img: helveticruby.png
     url: https://helvetic-ruby.ch/
     tags: [ rubyday ]
+    
+  - name: Service Design Drinks Milan
+    img: sddmilan.svg
+    url: https://www.linkedin.com/company/service-design-drinks-milan/
+    tags: [ uxday ]
