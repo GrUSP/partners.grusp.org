@@ -366,3 +366,8 @@ community:
     img: sddmilan.svg
     url: https://www.linkedin.com/company/service-design-drinks-milan/
     tags: [ uxday ]
+    
+  - name: QueerJS
+    img: queerjs.svg
+    url: https://www.queerjs.com
+    tags: [ jsday, reactjsday ]
