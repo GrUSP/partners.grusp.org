@@ -371,3 +371,13 @@ community:
     img: queerjs.png
     url: https://www.queerjs.com
     tags: [ jsday, reactjsday ]
+    
+  - name: Tech conferences Italy
+    img: tci.png
+    url: https://tech-conferences-italy.vercel.app/
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday, rubyday ]
+
+  - name: Reactjs Milano
+    img: reactjsmilano.svg
+    url: https://www.meetup.com/react-js-milano/
+    tags: [ reactjsday ]
