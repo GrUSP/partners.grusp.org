@@ -368,6 +368,6 @@ community:
     tags: [ uxday ]
     
   - name: QueerJS
-    img: queerjs.svg
+    img: queerjs.png
     url: https://www.queerjs.com
     tags: [ jsday, reactjsday ]
