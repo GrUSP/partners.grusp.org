@@ -391,3 +391,8 @@ community:
     img: jspoland.png
     url: http://js-poland.pl/
     tags: [ jsday, reactjsday ]
+    
+  - name: NG Poland
+    img: ngpoland.png
+    url: http://ng-poland.pl/
+    tags: [ angularday ]
