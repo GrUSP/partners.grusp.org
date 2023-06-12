@@ -386,3 +386,8 @@ community:
     img: futurefrontend.svg
     url: https://futurefrontend.com/
     tags: [ jsday, reactjsday ]
+    
+  - name: Poland JS
+    img: jspoland.png
+    url: http://js-poland.pl/
+    tags: [ jsday, reactjsday ]
