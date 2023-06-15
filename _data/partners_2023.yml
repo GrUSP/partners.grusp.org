@@ -396,3 +396,8 @@ community:
     img: ngpoland.png
     url: http://ng-poland.pl/
     tags: [ angularday ]
+
+  - name: php fwdays
+    img: phpfwdays.svg
+    url: https://fwdays.com/en/event/php-fwdays-2023/
+    tags: [ phpday ]
