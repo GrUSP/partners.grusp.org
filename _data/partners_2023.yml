@@ -406,3 +406,8 @@ community:
     img: edgemony.png
     url: https://edgemony.com/
     tags: [ cssday, jsday, uxday, reactjsday ]
+
+  - name: JS Heroes
+    img: jsheroesio.svg
+    url: https://jsheroes.io/
+    tags: [ jsday, reactjsday ]
