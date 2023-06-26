@@ -411,3 +411,8 @@ community:
     img: jsheroesio.svg
     url: https://jsheroes.io/
     tags: [ jsday, reactjsday ]
+
+  - name: Software Architecture fwdays
+    img: swarchitecturefwdays.svg
+    url: https://fwdays.com/event/architecture-fwdays-2023
+    tags: [ idi, containerday, devsecops ]
