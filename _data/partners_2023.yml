@@ -9,11 +9,6 @@ media:
     url: https://www.nodetlv.com/
     tags: [ jsday ]
     
-  - name: ReactNext
-    img: reactnext.svg
-    url: https://www.react-next.com/
-    tags: [ jsday, reactjsday ]
-    
   - name: Krazydev FRIULI VENEZIA GIULIA
     img: krazydev.svg
     url: https://krazydev.it/
@@ -66,6 +61,11 @@ media:
 
 
 community:
+
+  - name: ReactNext
+    img: reactnext.svg
+    url: https://www.react-next.com/
+    tags: [ jsday, reactjsday ]
 
   - name: Ladies that UX Milan
     img: ladiesthatuxmilano.png
