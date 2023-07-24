@@ -421,3 +421,8 @@ community:
     img: pensieriincodice.png
     url: https://pensieriincodice.it
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: React India
+    img: reactindia.png
+    url: https://www.reactindia.io/
+    tags: [ jsday, reactjsday ]
