@@ -426,3 +426,8 @@ community:
     img: reactindia.png
     url: https://www.reactindia.io/
     tags: [ jsday, reactjsday ]
+
+  - name: La Brigata dei Geek Estinti
+    img: bge.svg
+    url: https://www.youtube.com/channel/UC5yquqmAAdbB9bPkUISRimA
+    tags: [ idi, containerday, devsecops ]
