@@ -431,3 +431,8 @@ community:
     img: bge.svg
     url: https://www.youtube.com/channel/UC5yquqmAAdbB9bPkUISRimA
     tags: [ idi, containerday, devsecops ]
+
+  - name: IT Schulungen
+    img: itschulungen.svg
+    url: https://www.it-schulungen.com/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
