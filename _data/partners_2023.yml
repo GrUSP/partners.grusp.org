@@ -439,5 +439,5 @@ community:
 
   - name: This Week in React
     img: thisweekinreact.svg
-    url: https://thisweekinreact.com/
+    url: https://thisweekinreact.com/?utm_source=reactjsday-website
     tags: [ reactjsday ]
