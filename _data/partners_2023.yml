@@ -33,6 +33,11 @@ media:
     img: hypernova.png
     url: "#"
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Glorium Technologies
+    img: glorium.svg
+    url: https://gloriumtech.com/
+    tags: [ reactjsday ]
     
 # - name: PRESENTA
 #   img: presenta.png
@@ -441,3 +446,5 @@ community:
     img: thisweekinreact.svg
     url: https://thisweekinreact.com/?utm_source=reactjsday-website
     tags: [ reactjsday ]
+
+
