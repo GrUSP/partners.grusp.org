@@ -447,4 +447,9 @@ community:
     url: https://thisweekinreact.com/?utm_source=reactjsday-website
     tags: [ reactjsday ]
 
+  - name: React Native London
+    img: RNL.svg
+    url: https://www.meetup.com/React-Native-London/
+    tags: [ jsday, reactjsday ]
+
 
