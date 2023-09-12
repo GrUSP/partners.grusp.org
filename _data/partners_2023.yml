@@ -64,8 +64,23 @@ media:
     url: https://www.packtpub.com/
     tags: [ jsday, phpday, containerday, rubyday, uxday ]
 
+  - name: ReactJS.DE
+    img: reactjsde.svg
+    url: http://reactjs.de
+    tags: [ reactjsday ]
+
+  - name: Workshops.DE
+    img: workshopde.svg
+    url: https://workshops.de/partner
+    tags: [ uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
 
 community:
+
+- name: Fabio Biondi
+    img: fabio-biondi.png
+    url: https://www.fabiobiondi.dev/
+    tags: [ jsday, reactjsday, angularday ]
 
   - name: ReactNext
     img: reactnext.svg
