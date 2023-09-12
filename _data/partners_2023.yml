@@ -236,7 +236,22 @@ community:
     img: gdgpisa.png
     url: https://gdgpisa.it/
     tags: [ idi, cssday, jsday, rubyday, containerday, devsecops, reactjsday, angularday, blockchainday ]
-    
+
+  - name: GDG Catania 
+    img: gdgcatania.png
+    url: https://gdg.community.dev/gdg-catania/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: GDG Cloud Torino 
+    img: gdgcloudtorino.png
+    url: https://gdg.community.dev/gdg-torino/
+    tags: [ dx, idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]  
+  
+  - name: GDG Padova
+    img: gdgcloudtorino.png
+    url: https://gdg.community.dev/gdg-padova/
+    tags: [ dx, idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]  
+       
   - name: firenze.dev 
     img: firenzedev.svg
     url: https://firenze.dev/
@@ -467,4 +482,9 @@ community:
     url: https://www.meetup.com/React-Native-London/
     tags: [ jsday, reactjsday ]
 
+  - name: Angular Nights
+    img: angularnights.png
+    url: https://www.meetup.com/Angular-Nights/
+    tags: [ reactjsday, vueday, angularday ]
 
+  
