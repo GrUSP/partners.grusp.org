@@ -487,4 +487,9 @@ community:
     url: https://www.meetup.com/Angular-Nights/
     tags: [ reactjsday, vueday, angularday ]
 
+  - name: angular.love
+    img: angularlove.svg
+    url: https://www.angular.love/
+    tags: [ angularday ]
+
   
