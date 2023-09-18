@@ -131,12 +131,7 @@ community:
     img: gdgcatania.png
     url: https://gdg.community.dev/gdg-catania/
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
-    
-  - name: GDG Cloud Torino
-    img: gdgcloudtorino.png
-    url: https://gdg.community.dev/gdg-cloud-torino/
-    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, vueday, angularday ]
-    
+      
   - name: Swift Heros
     img: swiftheroes.png
     url: https://swiftheroes.com/
@@ -361,12 +356,7 @@ community:
     img: pyconitalia.svg
     url: https://pycon.it/en
     tags: [ idi, cssday, jsday, uxday, phpday, rubyday, containerday, devsecops, reactjsday, vueday, angularday ]
-    
-  - name: GDG Padova
-    img: gdgpadova.png
-    url: https://gdg.community.dev/gdg-padova/
-    tags: [ idi, cssday, jsday, uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
-    
+      
   - name: Apiumhub
     img: apiumhub.png
     url: https://apiumhub.com/
