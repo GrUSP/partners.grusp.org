@@ -77,7 +77,7 @@ media:
 
 community:
 
-- name: Fabio Biondi
+  - name: Fabio Biondi
     img: fabio-biondi.png
     url: https://www.fabiobiondi.dev/
     tags: [ jsday, reactjsday, angularday ]
