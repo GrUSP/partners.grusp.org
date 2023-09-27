@@ -601,3 +601,43 @@ community:
     img: angularlove.svg
     url: https://www.angular.love/
     tags: [ angularday ]
+
+  - name: DevRel Community Africa
+    img: devrelsudafrica.png
+    url: https://devrelcomafrica.notion.site/devrelcomafrica/DevRel-Community-Africa-7da776c74077430896a6d37b85fd1f32
+    tags: [ containerday, reactjsday, vueday ]
+
+  - name: Jamstack Lagos
+    img: jmstacklagos.png
+    url: https://www.meetup.com/JAMStack-Lagos/
+    tags: [ cssday, jsday, reactjsday, vueday ]
+
+  - name: JSWorld Conference
+    img: jsworld.png
+    url: https://jsworldconference.com/
+    tags: [ jsday, reactjsday, vueday, angularday ]
+
+  - name: ngGirls
+    img: nggirls.png
+    url: https://www.ng-girls.org/
+    tags: [ reactjsday, vueday, angularday ]
+
+  - name: ngVikings
+    img: ngviking.png
+    url: https://www.ngvikings.org/
+    tags: [ vueday, angularday ]
+
+  - name: Vue Basel
+    img: vuebasel.svg
+    url: https://www.meetup.com/Vue-Basel/
+    tags: [ jsday, vueday ]        
+
+  - name: Vue.js Forge
+    img: vuejsforge.png
+    url: https://vuejsforge.com/
+    tags: [ vueday ]    
+
+  - name: VueJobs
+    img: vuejobs.svg
+    url: https://vuejobs.com
+    tags: [ vueday ]
