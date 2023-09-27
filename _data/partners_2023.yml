@@ -107,11 +107,6 @@ community:
     url: https://www.tomorrowdevs.com/
     tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
-  - name: TomorrowDevs
-    img: tomorrowdevs.png
-    url: https://www.tomorrowdevs.com/
-    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
-
   - name: Programmers in Padua
     img: pip.svg
     url: http://www.programmersinpadua.it/
