@@ -74,8 +74,123 @@ media:
     url: https://workshops.de/partner
     tags: [ uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
+  - name: HTML.it
+    img: htmlit.png
+    url: https://www.html.it/
+    tags: [ laravelday ]
+
+  - name: Talent Garden
+    img: tag.png
+    url: https://www.html.it/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
 
 community:
+
+  - name: XPUG Bergamo
+    img: xpugbergamo.svg
+    url: https://www.meetup.com/xpugbg/
+    tags: [ dx, idi, cssday, jsday, containerday, devsecops, reactjsday, laravelday, angularday ]
+
+  - name: This is Learning
+    img: til.png
+    url: https://dev.to/this-is-learning
+    tags: [ cssday, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Vue.js Italia
+    img: vuejsitalia.png
+    url: https://t.me/vue_ita
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: TomorrowDevs
+    img: tomorrowdevs.png
+    url: https://www.tomorrowdevs.com/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: TomorrowDevs
+    img: tomorrowdevs.png
+    url: https://www.tomorrowdevs.com/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Programmers in Padua
+    img: pip.svg
+    url: http://www.programmersinpadua.it/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Pausa Caffe
+    img: pausacaffe.png
+    url: https://pausacaffe.live
+    tags: [ dx, idi, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: PHP Peru
+    img: phpdayperu.png
+    url: https://www.meetup.com/es/Meetup-de-PHP-en-Lima
+    tags: [ dx, idi, cssday, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: PointerPodcast
+    img: pointerpodcast.png
+    url: https://pointerpodcast.it/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Laravel Italia
+    img: laravelitalia.png
+    url: https://laravel-italia.it/
+    tags: [ dx, idi, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Laravel Italia Telegram
+    img: laravelitaliatelegram.png
+    url: https://t.me/laravel_ita
+    tags: [ laravelday ]
+
+  - name: Aulab
+    img: aulab.png
+    url: https://aulab.it/chi-siamo
+    tags: [ cssday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Bulgaria PHP User Group
+    img: bulgariapug.png
+    url: https://twitter.com/bgphp
+    tags: [ phpday, laravelday ]
+
+  - name: GDG Campobasso
+    img: gdgcampobasso.png
+    url: https://gdg.community.dev/gdg-campobasso/
+    tags: [ cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: GDG Torino
+    img: gdgtorino.svg
+    url: https://gdg.community.dev/gdg-torino/
+    tags: [ dx, idi, cssday, jsday, rubyday, containerday, devsecops, reactjsday, laravelday, angularday ]
+
+  - name: GDG Valle d Aosta
+    img: gdgvda.png
+    url: https://gdg.community.dev/gdg-valle-daosta/
+    tags: [ dx, idi, cssday, jsday, containerday, devsecops, reactjsday, laravelday, angularday ]
+
+  - name: GDG Venezia
+    img: gdgvenezia.svg
+    url: https://gdg.community.dev/gdg-valle-daosta/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: DevelopersLife
+    img: developerslife.png
+    url: https://developerslife.dev/
+    tags: [ reactjsday, laravelday, vueday, angularday ]
+
+  - name: DotNetCode
+    img: DotNetCode.svg
+    url: https://dotnetcode.it/
+    tags: [ dx, idi, cssday, jsday, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Il Salotto dei Programmatori
+    img: salottodeiprogrammatori.png
+    url: https://www.facebook.com/accademiadelbug/
+    tags: [ dx, idi, containerday, devsecops, reactjsday, laravelday, vueday ]
+
+  - name: Frontenders Ticino
+    img: frontendersticino.png
+    url: http://www.frontenders.ch/
+    tags: [ cssday, jsday, phpday, uxday, rubyday, reactjsday, laravelday, vueday, angularday ]
 
   - name: Fabio Biondi
     img: fabio-biondi.png
@@ -232,6 +347,11 @@ community:
     url: https://gdgpisa.it/
     tags: [ idi, cssday, jsday, rubyday, containerday, devsecops, reactjsday, angularday, blockchainday ]
 
+  - name: GDG Verona 
+    img: gdgverona.png
+    url: https://www.meetup.com/gdg-verona/
+    tags: [ reactjsday, laravelday, vueday, angularday ]
+
   - name: GDG Catania 
     img: gdgcatania.png
     url: https://gdg.community.dev/gdg-catania/
@@ -243,10 +363,15 @@ community:
     tags: [ dx, idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]  
   
   - name: GDG Padova
-    img: gdgcloudtorino.png
+    img: gdgpadova.png
     url: https://gdg.community.dev/gdg-padova/
     tags: [ dx, idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]  
-       
+
+  - name: Gitbar
+    img: gitbar.png
+    url: https://www.gitbar.it/
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
   - name: firenze.dev 
     img: firenzedev.svg
     url: https://firenze.dev/
@@ -285,17 +410,17 @@ community:
   - name: Gamedev.js 
     img: gamedevjs.png
     url: https://gamedevjs.com/
-    tags: [ jsday, reactjsday, vueday, angularday, blockchainday ] 
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday, laravelday ] 
     
   - name: Gamedev.js Weekly 
     img: gamedevjsweekly.svg
     url: https://gamedevjsweekly.com/
-    tags: [ jsday, reactjsday, vueday, angularday, blockchainday ] 
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday, laravelday ] 
     
   - name: js13kGames 
     img: js13kgames.svg
     url: https://js13kgames.com
-    tags: [ jsday, reactjsday, vueday, angularday, blockchainday ]
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday, laravelday ]
 
   - name: Rzeszów Ruby User Group 
     img: rzeszowrug.svg
@@ -325,7 +450,7 @@ community:
   - name: StopCoding
     img: stopcoding.png
     url: https://www.stopcoding.it/
-    tags: [ idi, jsday, uxday, containerday, devsecops ]
+    tags: [ idi, jsday, uxday, containerday, devsecops, laravelday ]
     
   - name: MUG - Marca User Group
     img: mug.svg
@@ -481,5 +606,3 @@ community:
     img: angularlove.svg
     url: https://www.angular.love/
     tags: [ angularday ]
-
-  
