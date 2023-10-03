@@ -87,6 +87,16 @@ media:
 
 community:
 
+  - name: La Locanda del Tech
+    img: lalocandadeltech.svg
+    url: https://www.twitch.tv/lalocandadeltech
+    tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Giuseppe Funicello
+    img: giuppidev.svg
+    url: https://www.youtube.com/@giuppidev
+    tags: [ cssday, jsday, reactjsday, laravelday, vueday ]
+
   - name: XPUG Bergamo
     img: xpugbergamo.svg
     url: https://www.meetup.com/xpugbg/
@@ -574,7 +584,7 @@ community:
 
   - name: La Brigata dei Geek Estinti
     img: bge.svg
-    url: https://www.youtube.com/channel/UC5yquqmAAdbB9bPkUISRimA
+    url: https://www.youtube.com/@LaBrigataDeiGeekEstinti
     tags: [ idi, containerday, devsecops ]
 
   - name: IT Schulungen
