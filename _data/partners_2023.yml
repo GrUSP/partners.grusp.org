@@ -656,3 +656,8 @@ community:
     img: nuxtnation.svg
     url: https://nuxtnation.com/?utm_source=vueday&utm_medium=website&utm_campaign=community
     tags: [ vueday ]
+
+  - name: CloudConf
+    img: cloudconf.svg
+    url: https://cloudconf.it
+    tags: [ dx, idi, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
