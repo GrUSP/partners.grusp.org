@@ -661,3 +661,8 @@ community:
     img: cloudconf.svg
     url: https://cloudconf.it
     tags: [ dx, idi, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Caffè Sviluppo
+    img: caffesviluppo.svg
+    url: https://twitch.tv/christian_varisco
+    tags: [ dx, cssday, jsday, phpday, uxday, containerday, reactjsday, laravelday, vueday, angularday, blockchainday ]
