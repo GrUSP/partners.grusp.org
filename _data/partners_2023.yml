@@ -53,16 +53,6 @@ media:
     img: codemotion.png
     url: https://codemo.tech/partners
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
-    
-  - name: Manning
-    img: manning.png
-    url: https://www.manning.com/
-    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
-    
-  - name: Packt Publishing Ltd
-    img: packt.svg
-    url: https://www.packtpub.com/
-    tags: [ jsday, phpday, containerday, rubyday, uxday ]
 
   - name: ReactJS.DE
     img: reactjsde.svg
@@ -84,6 +74,15 @@ media:
     url: https://www.html.it/
     tags: [ dx, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
+  - name: Kube Events
+    img: kubevents.png
+    url: https://kube.events/
+    tags: [ idi ]
+    
+  - name: Kube Careers
+    img: kubecareers.png
+    url: https://kube.careers/
+    tags: [ idi ]
 
 community:
 
