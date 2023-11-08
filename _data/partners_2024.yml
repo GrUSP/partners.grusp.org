@@ -54,15 +54,15 @@ media:
     url: https://codemo.tech/partners
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
     
-  - name: Manning
-    img: manning.png
-    url: https://www.manning.com/
-    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+#  - name: Manning
+#    img: manning.png
+#    url: https://www.manning.com/
+#    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
     
-  - name: Packt Publishing Ltd
-    img: packt.svg
-    url: https://www.packtpub.com/
-    tags: [ jsday, phpday, containerday, rubyday, uxday ]
+#  - name: Packt Publishing Ltd
+#    img: packt.svg
+#    url: https://www.packtpub.com/
+#    tags: [ jsday, phpday, containerday, rubyday, uxday ]
 
   - name: ReactJS.DE
     img: reactjsde.svg
