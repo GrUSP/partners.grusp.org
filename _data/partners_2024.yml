@@ -657,7 +657,7 @@ community:
     url: https://nuxtnation.com/?utm_source=vueday&utm_medium=website&utm_campaign=community
     tags: [ vueday ]
 
-- name: Kube Events
+  - name: Kube Events
     img: kubevents.png
     url: https://kube.events/
     tags: [ idi ]
