@@ -660,3 +660,8 @@ community:
     img: caffesviluppo.svg
     url: https://twitch.tv/christian_varisco
     tags: [ dx, cssday, jsday, phpday, uxday, containerday, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Friendly.rb
+    img: friendlyrb.png
+    url: https://friendlyrb.com/
+    tags: [ rubyday ]
