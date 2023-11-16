@@ -666,3 +666,8 @@ community:
     img: kubecareers.png
     url: https://kube.careers/
     tags: [ idi ]
+
+  - name: Friendly.rb
+    img: friendlyrb.png
+    url: https://friendlyrb.com/
+    tags: [ rubyday ]
