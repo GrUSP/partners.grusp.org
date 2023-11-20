@@ -505,7 +505,7 @@ community:
   - name: Torino Digital Days
     img: torinodigitaldays.png
     url: https://digitaldays.it/
-    tags: [ uxday, rubyday, vueday, blockchainday ]
+    tags: [ uxday, rubyday, vueday, blockchainday, dxday ]
     
   - name: ruby unconf
     img: RubyUnconf.png
@@ -610,7 +610,7 @@ community:
   - name: angular.love
     img: angularlove.svg
     url: https://www.angular.love/
-    tags: [ angularday ]
+    tags: [ angularday, dxday ]
 
   - name: DevRel Community Africa
     img: devrelsudafrica.png
