@@ -12,7 +12,12 @@ media:
   - name: Krazydev FRIULI VENEZIA GIULIA
     img: krazydev.svg
     url: https://krazydev.it/
-    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: EventiTech
+    img: eventitech.svg
+    url: https://eventitech.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
     
   - name: Devmy
     img: devmy.png
