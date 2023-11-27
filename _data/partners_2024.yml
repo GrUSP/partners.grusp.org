@@ -251,11 +251,6 @@ community:
     img: gdg-trento.svg
     url: http://gdgtrento.it/
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
-    
-  - name: GDG Catania
-    img: gdgcatania.png
-    url: https://gdg.community.dev/gdg-catania/
-    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
       
   - name: Swift Heros
     img: swiftheroes.png
