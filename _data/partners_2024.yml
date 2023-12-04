@@ -167,10 +167,6 @@ community:
     url: https://gdg.community.dev/gdg-campobasso/
     tags: [ cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
-  - name: GDG Torino
-    img: gdgtorino.svg
-    url: https://gdg.community.dev/gdg-torino/
-    tags: [ dx, idi, cssday, jsday, rubyday, containerday, devsecops, reactjsday, laravelday, angularday ]
 
   - name: GDG Valle d Aosta
     img: gdgvda.png
