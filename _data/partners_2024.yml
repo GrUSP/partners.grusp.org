@@ -671,3 +671,8 @@ community:
     img: friendlyrb.png
     url: https://friendlyrb.com/
     tags: [ rubyday ]
+
+  - name: Italia Open Source
+    img: italiaos.svg
+    url: https://italiaopensource.com/communities
+    tags: [ idi, containerday, devsecops ]
