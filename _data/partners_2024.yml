@@ -74,10 +74,6 @@ media:
     url: http://reactjs.de
     tags: [ reactjsday ]
 
-  - name: Workshops.DE
-    img: workshopde.svg
-    url: https://workshops.de/partner
-    tags: [ uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
   - name: HTML.it
     img: htmlit.png
@@ -91,6 +87,11 @@ media:
 
 
 community:
+
+  - name: Workshops.DE
+    img: workshopde.svg
+    url: https://workshops.de/partner
+    tags: [ uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
   - name: La Locanda del Tech
     img: lalocandadeltech.svg
