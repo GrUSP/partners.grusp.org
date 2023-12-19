@@ -605,7 +605,7 @@ community:
     tags: [ reactjsday, vueday, angularday ]
 
   - name: angular.love
-    img: angularlove.svg
+    img: angularlove24.svg
     url: https://www.angular.love/
     tags: [ angularday, dxday ]
 
