@@ -88,6 +88,11 @@ media:
 
 community:
 
+  - name: Ruby Warsaw Community Conference
+    img: rubywarsawcommunityconf.svg
+    url: https://www.rubycommunityconference.com/
+    tags: [ rubyday ]
+
   - name: Workshops.DE
     img: workshopde.svg
     url: https://workshops.de/partner
