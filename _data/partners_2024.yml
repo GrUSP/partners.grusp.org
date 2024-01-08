@@ -88,6 +88,11 @@ media:
 
 community:
 
+  - name: EuRuKo
+    img: EuRuKo-2024.svg
+    url: https://https://2024.euruko.org/
+    tags: [ rubyday ]
+
   - name: Ruby Warsaw Community Conference
     img: rubywarsawcommunityconf.svg
     url: https://www.rubycommunityconference.com/
