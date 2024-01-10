@@ -89,7 +89,7 @@ media:
 community:
 
   - name: EuRuKo
-    img: EuRuKo-2024.svg
+    img: EuRuKo.svg
     url: https://2024.euruko.org/
     tags: [ rubyday ]
 
