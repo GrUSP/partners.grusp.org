@@ -88,6 +88,11 @@ media:
 
 community:
 
+  - name: CityJS
+    img: cityjs.svg
+    url: https://cityjsconf.org/
+    tags: [ jsday, reactjsday ]
+
   - name: Il Corriere del DevOps
     img: ilcorrieredeldevops.svg
     url: https://open.spotify.com/show/6Ol87E9XMkrbc6vH8qkyfU
