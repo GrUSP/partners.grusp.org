@@ -91,7 +91,7 @@ community:
   - name: Coderful
     img: coderful.png
     url: https://www.coderful.io/
-    tags: [ cssday, jsday, phpday, reactjsday, angularday, PMDay ]
+    tags: [ dx, idi, cssday, jsday, phpday, rubyday, containerday, reactjsday, angularday, PMDay, vueday ]
     
   - name: CityJS
     img: cityjs.svg
