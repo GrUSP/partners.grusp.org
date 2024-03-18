@@ -510,7 +510,7 @@ community:
     tags: [ rubyday, containerday, reactjsday, laravelday, vueday, angularday ]
     
   - name: PyCon Italia
-    img: pyconitalia.svg
+    img: pycon24.svg
     url: https://pycon.it/en
     tags: [ idi, cssday, jsday, uxday, phpday, rubyday, containerday, devsecops, reactjsday, vueday, angularday ]
       
