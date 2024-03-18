@@ -88,6 +88,11 @@ media:
 
 community:
 
+  - name: Platmosphere
+    img: platmosphere.png
+    url: https://platmosphere.com/
+    tags: [ dxday, idi, containerday, devsecops ]
+
   - name: Voxxed Days Trieste
     img: voxxedts.svg
     url: https://trieste.voxxeddays.com/
