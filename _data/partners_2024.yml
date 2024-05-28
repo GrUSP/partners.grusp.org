@@ -88,6 +88,11 @@ media:
 
 community:
 
+  - name: Beer Tech Group
+    img: beertechgroup.png
+    url: https://beertechgroup.net
+    tags: [ dx, phpday, uxday, devsecops, reactjsday, laravelday, angularday ]
+
   - name: Platmosphere
     img: platmosphere.png
     url: https://platmosphere.com/
