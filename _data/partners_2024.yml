@@ -88,6 +88,21 @@ media:
 
 community:
 
+  - name: Digital Ethics Forum
+    img: sloweb.svg
+    url: Digital Ethics Forum
+    tags: [ uxday ]
+
+  - name: Vue.js Varese
+    img: vjvarese.png
+    url: https://varese.vuejs.it/
+    tags: [ cssday, jsday, uxday, reactjsday, laravelday, angularday, vueday ]
+    
+  - name: UseCaseConf
+    img: usecaseconf.png
+    url: https://usecaseconf.tech/
+    tags: [ idi, containerday, PMDay ]
+
   - name: Beer Tech Group
     img: beertechgroup.png
     url: https://beertechgroup.net
