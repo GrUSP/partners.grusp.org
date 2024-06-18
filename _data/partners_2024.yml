@@ -99,7 +99,7 @@ community:
     tags: [ cssday, jsday, uxday, reactjsday, laravelday, angularday, vueday ]
     
   - name: UseCaseConf
-    img: usecaseconf.png
+    img: UseCaseConf.png
     url: https://usecaseconf.tech/
     tags: [ idi, containerday, PMDay ]
 
