@@ -24,10 +24,10 @@ media:
     url: https://devmy.it/
     tags: [ dxday, idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
     
-  - name: No Fluff Jobs
-    img: nofluffjobsblack.svg
-    url: https://nofluffjobs.com/?utm_source=partner_website&utm_medium=logo&utm_campaign=patronage&utm_term=&utm_content=grusp
-    tags: [ jsday, phpday, rubyday, reactjsday, vueday, angularday ]
+# - name: No Fluff Jobs
+#    img: nofluffjobsblack.svg
+#    url: https://nofluffjobs.com/?utm_source=partner_website&utm_medium=logo&utm_campaign=patronage&utm_term=&utm_content=grusp
+#    tags: [ jsday, phpday, rubyday, reactjsday, vueday, angularday ]
     
   - name: Product Management Day
     img: productmanday.svg
@@ -39,10 +39,10 @@ media:
     url: "#"
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
 
-  - name: Glorium Technologies
-    img: glorium.svg
-    url: https://gloriumtech.com/
-    tags: [ reactjsday ]
+#  - name: Glorium Technologies
+#    img: glorium.svg
+#    url: https://gloriumtech.com/
+#    tags: [ reactjsday ]
     
 # - name: PRESENTA
 #   img: presenta.png
@@ -69,21 +69,26 @@ media:
 #    url: https://www.packtpub.com/
 #    tags: [ jsday, phpday, containerday, rubyday, uxday ]
 
-  - name: ReactJS.DE
-    img: reactjsde.svg
-    url: http://reactjs.de
-    tags: [ reactjsday ]
+#  - name: ReactJS.DE
+#    img: reactjsde.svg
+#    url: http://reactjs.de
+#    tags: [ reactjsday ]
 
 
   - name: HTML.it
     img: htmlit.png
     url: https://www.html.it/
-    tags: [ dxday, laravelday ]
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday  ]
 
-  - name: Talent Garden
-    img: tag.png
-    url: https://www.html.it/
-    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+  - name: SecurityCert
+    img: securitycert.svg
+    url: https://www.securitycert.it/
+    tags: [ devsecops ]
+
+#  - name: Talent Garden
+#    img: tag.png
+#    url: https://www.html.it/
+#    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
 
 community:
