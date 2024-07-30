@@ -1,0 +1,735 @@
+media:
+#    - name: TechEvents.online
+#      img: techevents-online.svg
+#      url: https://www.techevents.online/
+#      tags: [ cssday, rubyday, vueday, phpday, idi, jsday, containerday, angularday ]
+
+  - name: Node.TLV
+    img: nodetlv.svg
+    url: https://www.nodetlv.com/
+    tags: [ jsday ]
+    
+  - name: Krazydev FRIULI VENEZIA GIULIA
+    img: krazydev.svg
+    url: https://krazydev.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: EventiTech
+    img: eventitech.svg
+    url: https://eventitech.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+    
+  - name: Devmy
+    img: devmy.png
+    url: https://devmy.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
+    
+# - name: No Fluff Jobs
+#    img: nofluffjobsblack.svg
+#    url: https://nofluffjobs.com/?utm_source=partner_website&utm_medium=logo&utm_campaign=patronage&utm_term=&utm_content=grusp
+#    tags: [ jsday, phpday, rubyday, reactjsday, vueday, angularday ]
+    
+  - name: Product Management Day
+    img: productmanday.svg
+    url: https://www.productmanagementday.com/
+    tags: [ dxday, idi, uxday, containerday, devsecops ]
+    
+  - name: Hypernova Soc. Coop.
+    img: hypernova.png
+    url: "#"
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+#  - name: Glorium Technologies
+#    img: glorium.svg
+#    url: https://gloriumtech.com/
+#    tags: [ reactjsday ]
+    
+# - name: PRESENTA
+#   img: presenta.png
+#   url: https://www.presenta.cc/
+#   tags: [ uxday, rubyday, containerday, devsecops, reactjsday, vueday, angularday ]
+    
+  - name: KCD Italy
+    img: kcditaly.svg
+    url: https://community.cncf.io/kcd-italy/
+    tags: [ dxday, idi, containerday, devsecops ]
+    
+  - name: Codemotion
+    img: codemotion.png
+    url: https://codemo.tech/partners
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+#  - name: Manning
+#    img: manning.png
+#    url: https://www.manning.com/
+#    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+    
+#  - name: Packt Publishing Ltd
+#    img: packt.svg
+#    url: https://www.packtpub.com/
+#    tags: [ jsday, phpday, containerday, rubyday, uxday ]
+
+#  - name: ReactJS.DE
+#    img: reactjsde.svg
+#    url: http://reactjs.de
+#    tags: [ reactjsday ]
+
+
+  - name: HTML.it
+    img: htmlit.png
+    url: https://www.html.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday  ]
+
+  - name: SecurityCert
+    img: securitycert.svg
+    url: https://www.securitycert.it/
+    tags: [ devsecops ]
+
+#  - name: Talent Garden
+#    img: tag.png
+#    url: https://www.html.it/
+#    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+
+community:
+
+  - name: Digital Ethics Forum
+    img: sloweb.svg
+    url: Digital Ethics Forum
+    tags: [ uxday ]
+
+  - name: Vue.js Varese
+    img: vjvarese.png
+    url: https://varese.vuejs.it/
+    tags: [ cssday, jsday, uxday, reactjsday, laravelday, angularday, vueday ]
+    
+  - name: UseCaseConf
+    img: UseCaseConf.png
+    url: https://usecaseconf.tech/
+    tags: [ idi, containerday, PMDay ]
+
+  - name: Beer Tech Group
+    img: beertechgroup.png
+    url: https://beertechgroup.net
+    tags: [ dx, phpday, uxday, devsecops, reactjsday, laravelday, angularday ]
+
+  - name: Platmosphere
+    img: platmosphere.png
+    url: https://platmosphere.com/
+    tags: [ dxday, idi, containerday, devsecops ]
+
+  - name: Voxxed Days Trieste
+    img: voxxedts.svg
+    url: https://trieste.voxxeddays.com/
+    tags: [ idi, cssday, jsday, uxday, containerday, reactjsday ]
+
+  - name: Coderful
+    img: coderful.png
+    url: https://www.coderful.io/
+    tags: [ dxday, idi, cssday, jsday, phpday, rubyday, containerday, reactjsday, angularday, PMDay, vueday ]
+    
+  - name: CityJS
+    img: cityjs.svg
+    url: https://cityjsconf.org/
+    tags: [ jsday, reactjsday ]
+
+  - name: Il Corriere del DevOps
+    img: ilcorrieredeldevops.svg
+    url: https://open.spotify.com/show/6Ol87E9XMkrbc6vH8qkyfU
+    tags: [ idi, mlops, containerday, devsecops ]
+
+  - name: EuRuKo
+    img: EuRuKo.svg
+    url: https://2024.euruko.org/
+    tags: [ rubyday ]
+
+  - name: Ruby Warsaw Community Conference
+    img: rubywarsawcommunityconf.svg
+    url: https://www.rubycommunityconference.com/
+    tags: [ rubyday ]
+
+  - name: Workshops.DE
+    img: workshopde.svg
+    url: https://workshops.de/partner
+    tags: [ uxday, rubyday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: La Locanda del Tech
+    img: lalocandadeltech.svg
+    url: https://www.twitch.tv/lalocandadeltech
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Giuseppe Funicello
+    img: giuppidev.svg
+    url: https://www.youtube.com/@giuppidev
+    tags: [ cssday, jsday, reactjsday, laravelday, vueday ]
+
+  - name: XPUG Bergamo
+    img: xpugbergamo.svg
+    url: https://www.meetup.com/xpugbg/
+    tags: [ dxday, idi, cssday, jsday, containerday, devsecops, reactjsday, laravelday, angularday ]
+
+  - name: This is Learning
+    img: til.png
+    url: https://dev.to/this-is-learning
+    tags: [ cssday, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Vue.js Italia
+    img: vuejsitalia.png
+    url: https://t.me/vue_ita
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: TomorrowDevs
+    img: tomorrowdevs.png
+    url: https://www.tomorrowdevs.com/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Programmers in Padua
+    img: pip.svg
+    url: http://www.programmersinpadua.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Pausa Caffe
+    img: pausacaffe.png
+    url: https://pausacaffe.live
+    tags: [ dxday, idi, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: PHP Peru
+    img: phpdayperu.png
+    url: https://www.meetup.com/es/Meetup-de-PHP-en-Lima
+    tags: [ dxday, idi, cssday, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: PointerPodcast
+    img: pointerpodcast.png
+    url: https://pointerpodcast.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Laravel Italia
+    img: laravelitalia.png
+    url: https://laravel-italia.it/
+    tags: [ dxday, idi, jsday, phpday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Laravel Italia Telegram
+    img: laravelitaliatelegram.png
+    url: https://t.me/laravel_ita
+    tags: [ laravelday ]
+
+  - name: Aulab
+    img: aulab.png
+    url: https://aulab.it/chi-siamo
+    tags: [ cssday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Bulgaria PHP User Group
+    img: bulgariapug.png
+    url: https://twitter.com/bgphp
+    tags: [ phpday, laravelday ]
+
+  - name: GDG Campobasso
+    img: gdgcampobasso.png
+    url: https://gdg.community.dev/gdg-campobasso/
+    tags: [ cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+
+  - name: GDG Valle d Aosta
+    img: gdgvda.png
+    url: https://gdg.community.dev/gdg-valle-daosta/
+    tags: [ dxday, idi, cssday, jsday, containerday, devsecops, reactjsday, laravelday, angularday ]
+
+  - name: GDG Venezia
+    img: gdgvenezia.svg
+    url: https://gdg.community.dev/gdg-valle-daosta/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: DevelopersLife
+    img: developerslife.png
+    url: https://developerslife.dev/
+    tags: [ reactjsday, laravelday, vueday, angularday ]
+
+  - name: DotNetCode
+    img: DotNetCode.svg
+    url: https://dotnetcode.it/
+    tags: [ dxday, idi, cssday, jsday, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Il Salotto dei Programmatori
+    img: salottodeiprogrammatori.png
+    url: https://www.facebook.com/accademiadelbug/
+    tags: [ dxday, idi, containerday, devsecops, reactjsday, laravelday, vueday ]
+
+  - name: Frontenders Ticino
+    img: frontendersticino.png
+    url: http://www.frontenders.ch/
+    tags: [ cssday, jsday, phpday, uxday, rubyday, reactjsday, laravelday, vueday, angularday ]
+
+  - name: Fabio Biondi
+    img: fabio-biondi.png
+    url: https://www.fabiobiondi.dev/
+    tags: [ jsday, reactjsday, angularday ]
+
+  - name: ReactNext
+    img: reactnext.svg
+    url: https://www.react-next.com/
+    tags: [ jsday, reactjsday ]
+
+  - name: Ladies that UX Milan
+    img: ladiesthatuxmilano.png
+    url: https://www.linkedin.com/company/ladiesthatuxmilan/
+    tags: [ uxday ]
+
+  - name: React Norway
+    img: reactnorway.svg
+    url: https://reactnorway.com/
+    tags: [ reactjsday ]
+
+  - name: TrevisoJS
+    img: trevisojs.png
+    url: https://medium.com/treviso-js
+    tags: [ jsday, reactjsday, vueday, angularday ]
+
+  - name: JavaScript Kingdom
+    img: javascriptkingdom.svg
+    url: https://javascriptkingdom.github.io/
+    tags: [ cssday, jsday, reactjsday, vueday, angularday ]
+
+  - name: VueJS Atens
+    img: vuejsathens.png
+    url: https://www.linkedin.com/company/vuejsathens/about/
+    tags: [ jsday, vueday ]
+
+  - name: ARCHITECTA
+    img: architecta.png
+    url: https://architecta.it/
+    tags: [ uxday ]
+    
+  - name: Vihat
+    img: vihat.svg
+    url: https://vihattechnologies.com/
+    tags: [ jsday ]
+
+  - name: GDG Trento
+    img: gdg-trento.svg
+    url: http://gdgtrento.it/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+      
+  - name: Swift Heros
+    img: swiftheroes.png
+    url: https://swiftheroes.com/
+    tags: [ rubyday, containerday, reactjsday, laravelday, vueday ]
+    
+  - name: React Native Heroes
+    img: reactnativeheroes.svg
+    url: https://reactnativeheroes.com/
+    tags: [ rubyday, laravelday, vueday ]
+    
+  - name: droidcon italy
+    img: droidcon.svg
+    url: https://it.droidcon.com/
+    tags: [ idi, cssday, jsday, phpday, rubyday, containerday, reactjsday, laravelday, vueday, angularday ]
+  
+  - name: Flutter Heroes
+    img: flutterheroes.png
+    url: rubyday, containerday, reactjsday, vueday
+    tags: [ rubyday, containerday, reactjsday, vueday ]
+  
+  - name: Sistech
+    img: sistech.png
+    url: https://sis.tech/
+    tags: [ jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Schrödinger Hat
+    img: sh.png
+    url: https://www.schrodinger-hat.it/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
+  - name: GDG Pescara
+    img: gdgpescara.svg
+    url: https://gdgpescara.it/
+    tags: [ idi, uxday, containerday, devsecops, reactjsday, angularday ]
+    
+  - name: PLUG
+    img: plug.png
+    url: https://www.pignolalug.it/
+    tags: [ idi, rubyday, containerday, devsecops, reactjsday, angularday ]
+    
+  - name: Bologna Front End
+    img: bolognafrontend.svg
+    url: https://bolognafrontend.it/
+    tags: [ cssday, jsday, uxday ]
+    
+  - name: SheTech
+    img: shetech.png
+    url: https://shetechitaly.org/
+    tags: [ idi, cssday, jsday, phpday, uxday, reactjsday ]
+    
+  - name: BolognaJS
+    img: bolognajs.svg
+    url: https://www.bolognajs.com
+    tags: [ cssday, jsday ]
+    
+  - name: AgileItalia
+    img: AgileItaliaMagazine.svg
+    url: https://agileitalia.agileforitaly.com
+    tags: [ idi ]
+    
+  - name: NG Heros
+    img: ngheros.png
+    url: https://www.meetup.com/ng-heroes/
+    tags: [ jsday, angularday ]
+    
+  - name: AWS UG Catania
+    img: awscatania.png
+    url: https://www.meetup.com/it-IT/AWS-User-Group-Catania/
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, angularday ]
+    
+  - name: Hi!Founders 
+    img: hifounders.svg
+    url: https://www.hifounders.com/
+    tags: [ idi, uxday, laravelday ]
+    
+  - name: TheRedCode 
+    img: theredcode.png
+    url: https://www.theredcode.it/
+    tags: [ idi, cssday, jsday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: Agile Community Torino 
+    img: agiletorino.svg
+    url: https://agile.to.it/
+    tags: [ idi, containerday, devsecops ]
+    
+  - name: DevRomagna 
+    img: devromagna.png
+    url: https://www.meetup.com/it-IT/DevRomagna/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: GDG Cloud Milano 
+    img: gdgcloudmilano.png
+    url: https://gdg.community.dev/gdg-cloud-milano/
+    tags: [ idi, jsday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
+    
+  - name: GDG Pisa 
+    img: gdgpisa.png
+    url: https://gdgpisa.it/
+    tags: [ idi, cssday, jsday, rubyday, containerday, devsecops, reactjsday, angularday, blockchainday ]
+
+  - name: GDG Verona 
+    img: gdgverona.png
+    url: https://www.meetup.com/gdg-verona/
+    tags: [ reactjsday, laravelday, vueday, angularday ]
+
+  - name: GDG Catania 
+    img: gdgcatania.png
+    url: https://gdg.community.dev/gdg-catania/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: GDG Cloud Torino 
+    img: gdgcloudtorino.png
+    url: https://gdg.community.dev/gdg-torino/
+    tags: [ dxday, idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]  
+  
+  - name: GDG Padova
+    img: gdgpadova.png
+    url: https://gdg.community.dev/gdg-padova/
+    tags: [ dxday, idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]  
+
+  - name: Gitbar
+    img: gitbar.png
+    url: https://www.gitbar.it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: firenze.dev 
+    img: firenzedev.svg
+    url: https://firenze.dev/
+    tags: [ idi, cssday, jsday, phpday, reactjsday, laravelday, blockchainday ]
+    
+  - name: Django Girls Italia 
+    img: djangogirls.png
+    url: https://twitter.com/djangogirlsIT
+    tags: [ idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
+    
+  - name: Fuzzy Brains 
+    img: fuzzybrains.svg
+    url: https://www.fuzzybrains.org/it/
+    tags: [ idi, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]
+    
+  - name: Develer srl 
+    img: develer.svg
+    url: https://www.develer.com/
+    tags: [ idi, uxday, reactjsday ]
+    
+  - name: Vuejs Israel 
+    img: vuejsisrael.png
+    url: https://www.vuejsisrael.com/
+    tags: [ jsday, vueday ]
+  
+  - name: Smashing Members 
+    img: smashingmembersmag.svg
+    url: https://www.smashingmagazine.com/membership/
+    tags: [ jsday, reactjsday ]
+    
+  - name: BEL Vue 
+    img: belvue.svg
+    url: https://www.meetup.com/belvue-be/
+    tags: [ jsday, vueday ]
+    
+  - name: Gamedev.js 
+    img: gamedevjs.png
+    url: https://gamedevjs.com/
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday, laravelday ] 
+    
+  - name: Gamedev.js Weekly 
+    img: gamedevjsweekly.svg
+    url: https://gamedevjsweekly.com/
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday, laravelday ] 
+    
+  - name: js13kGames 
+    img: js13kgames.svg
+    url: https://js13kgames.com
+    tags: [ jsday, reactjsday, vueday, angularday, blockchainday, laravelday ]
+
+  - name: Rzeszów Ruby User Group 
+    img: rzeszowrug.svg
+    url: http://rrug.pl/
+    tags: [ rubyday ]
+    
+  - name: Coding Bunker 
+    img: codingbunker.png
+    url: https://www.codingbunker.it/
+    tags: [ cssday, jsday, phpday, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: WeAreDevelopers GmbH 
+    img: wearedevelopers.svg
+    url: https://www.wearedevelopers.com/
+    tags: [ jsday, phpday, uxday, rubyday ]
+    
+  - name: "BeJS : Belgian JavaScript Community"
+    img: bejs.png
+    url: https://www.bejs.io/conf
+    tags: [ jsday, reactjsday ]
+    
+  - name: UX/UI Designer Italia 
+    img: uxuidesigneritalia.svg
+    url: https://www.uxuidesigner.org/
+    tags: [ cssday, jsday, uxday, reactjsday ]
+
+  - name: StopCoding
+    img: stopcoding.png
+    url: https://www.stopcoding.it/
+    tags: [ idi, jsday, uxday, containerday, devsecops, laravelday ]
+    
+  - name: MUG - Marca User Group
+    img: mug.svg
+    url: https://m-u-g.github.io/
+    tags: [ idi, cssday, jsday, uxday, reactjsday ]
+    
+  - name: Angular Rome
+    img: angularrome.svg
+    url: https://twitter.com/AngularRome
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+    
+  - name: Sherpa Community
+    img: sherpa.svg
+    url: https://sherpadesign.it/
+    tags: [ cssday, jsday, uxday ]
+    
+  - name: RomaJS
+    img: romajs.svg
+    url: https://romajs.org/
+    tags: [ cssday, jsday, uxday, reactjsday, vueday, angularday ]
+    
+  - name: LemonSaltStudio
+    img: lemonsaltstudio.png
+    url: https://www.lemonsalt.studio/
+    tags: [ rubyday, containerday, reactjsday, laravelday, vueday, angularday ]
+    
+  - name: PyCon Italia
+    img: pycon24.svg
+    url: https://pycon.it/en
+    tags: [ idi, cssday, jsday, uxday, phpday, rubyday, containerday, devsecops, reactjsday, vueday, angularday ]
+      
+  - name: Apiumhub
+    img: apiumhub.png
+    url: https://apiumhub.com/
+    tags: [ jsday, phpday, rubyday, containerday, reactjsday ]
+
+  - name: Latina in Tech
+    img: latinaintech.svg
+    url: https://latina-in-tech.github.io/
+    tags: [ jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday ]
+    
+  - name: "wroclove.rb"
+    img: wroclove.png
+    url: https://wrocloverb.com/
+    tags: [ rubyday ]
+
+  - name: Torino Digital Days
+    img: torinodigitaldays.png
+    url: https://digitaldays.it/
+    tags: [ uxday, rubyday, vueday, blockchainday, dxday ]
+    
+  - name: ruby unconf
+    img: RubyUnconf.png
+    url: https://2023.rubyunconf.eu/
+    tags: [ rubyday ]
+    
+  - name: Helvetic Ruby
+    img: helveticruby.png
+    url: https://helvetic-ruby.ch/
+    tags: [ rubyday ]
+    
+  - name: Service Design Drinks Milan
+    img: sddmilan.svg
+    url: https://www.linkedin.com/company/service-design-drinks-milan/
+    tags: [ uxday ]
+    
+  - name: QueerJS
+    img: queerjs.svg
+    url: https://www.queerjs.com
+    tags: [ jsday, reactjsday ]
+    
+  - name: Tech conferences Italy
+    img: tci.png
+    url: https://tech-conferences-italy.vercel.app/
+    tags: [ idi, cssday, jsday, phpday, uxday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday, rubyday ]
+
+  - name: Reactjs Milano
+    img: reactjsmilano.svg
+    url: https://www.meetup.com/react-js-milano/
+    tags: [ reactjsday ]
+    
+  - name: Future Frontend
+    img: futurefrontend.svg
+    url: https://futurefrontend.com/
+    tags: [ jsday, reactjsday ]
+    
+  - name: Poland JS
+    img: jspoland.png
+    url: http://js-poland.pl/
+    tags: [ jsday, reactjsday ]
+    
+  - name: NG Poland
+    img: ngpoland.png
+    url: http://ng-poland.pl/
+    tags: [ angularday ]
+
+  - name: php fwdays
+    img: phpfwdays.svg
+    url: https://fwdays.com/en/event/php-fwdays-2023/
+    tags: [ phpday ]
+
+  - name: Edgemony
+    img: edgemony.png
+    url: https://edgemony.com/
+    tags: [ cssday, jsday, uxday, reactjsday ]
+
+  - name: JS Heroes
+    img: jsheroesio.svg
+    url: https://jsheroes.io/
+    tags: [ jsday, reactjsday ]
+
+  - name: Software Architecture fwdays
+    img: swarchitecturefwdays.svg
+    url: https://fwdays.com/event/architecture-fwdays-2023
+    tags: [ idi, containerday, devsecops ]
+
+  - name: Pensieri in codice
+    img: pensieriincodice.png
+    url: https://pensieriincodice.it
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: React India
+    img: reactindia.png
+    url: https://www.reactindia.io/
+    tags: [ jsday, reactjsday ]
+
+  - name: La Brigata dei Geek Estinti
+    img: bge.svg
+    url: https://www.youtube.com/@LaBrigataDeiGeekEstinti
+    tags: [ idi, containerday, devsecops ]
+
+  - name: IT Schulungen
+    img: itschulungen.svg
+    url: https://www.it-schulungen.com/
+    tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: This Week in React
+    img: thisweekinreact.svg
+    url: https://thisweekinreact.com/?utm_source=reactjsday-website
+    tags: [ reactjsday ]
+
+  - name: React Native London
+    img: RNL.svg
+    url: https://www.meetup.com/React-Native-London/
+    tags: [ jsday, reactjsday ]
+
+  - name: Angular Nights
+    img: angularnights.png
+    url: https://www.meetup.com/Angular-Nights/
+    tags: [ reactjsday, vueday, angularday ]
+
+  - name: angular.love
+    img: angularlove24.svg
+    url: https://www.angular.love/
+    tags: [ angularday, dxday ]
+
+  - name: DevRel Community Africa
+    img: devrelsudafrica.png
+    url: https://devrelcomafrica.notion.site/devrelcomafrica/DevRel-Community-Africa-7da776c74077430896a6d37b85fd1f32
+    tags: [ containerday, reactjsday, vueday ]
+
+  - name: Jamstack Lagos
+    img: jmstacklagos.png
+    url: https://www.meetup.com/JAMStack-Lagos/
+    tags: [ cssday, jsday, reactjsday, vueday ]
+
+  - name: JSWorld Conference
+    img: jsworld.png
+    url: https://jsworldconference.com/
+    tags: [ jsday, reactjsday, vueday, angularday ]
+
+  - name: ngGirls
+    img: nggirls.png
+    url: https://www.ng-girls.org/
+    tags: [ reactjsday, vueday, angularday ]
+
+  - name: ngVikings
+    img: ngviking.png
+    url: https://www.ngvikings.org/
+    tags: [ vueday, angularday ]
+
+  - name: Vue Basel
+    img: vuebasel.svg
+    url: https://www.meetup.com/Vue-Basel/
+    tags: [ jsday, vueday ]        
+
+  - name: Vue.js Forge
+    img: vuejsforge.png
+    url: https://vuejsforge.com/
+    tags: [ vueday ]    
+
+  - name: VueJobs
+    img: vuejobs.svg
+    url: https://vuejobs.com
+    tags: [ vueday ]
+
+  - name: Nuxt Nation
+    img: nuxtnation.svg
+    url: https://nuxtnation.com/?utm_source=vueday&utm_medium=website&utm_campaign=community
+    tags: [ vueday ]
+
+  - name: Kube Events
+    img: kubevents.png
+    url: https://kube.events/
+    tags: [ idi ]
+    
+  - name: Kube Careers
+    img: kubecareers.png
+    url: https://kube.careers/
+    tags: [ idi ]
+
+  - name: Friendly.rb
+    img: friendlyrb.png
+    url: https://friendlyrb.com/
+    tags: [ rubyday ]
+
+  - name: Italia Open Source
+    img: italiaos.svg
+    url: https://italiaopensource.com/communities
+    tags: [ idi, containerday, devsecops ]
