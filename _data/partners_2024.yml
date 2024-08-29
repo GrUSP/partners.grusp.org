@@ -90,6 +90,10 @@ media:
 #    url: https://www.html.it/
 #    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
+  - name: This Week in React
+    img: thisweekinreact.svg
+    url: https://thisweekinreact.com/?utm_source=reactjsday-website
+    tags: [ reactjsday ]
 
 community:
 
@@ -648,11 +652,6 @@ community:
     img: itschulungen.svg
     url: https://www.it-schulungen.com/
     tags: [ idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
-
-  - name: This Week in React
-    img: thisweekinreact.svg
-    url: https://thisweekinreact.com/?utm_source=reactjsday-website
-    tags: [ reactjsday ]
 
   - name: React Native London
     img: RNL.svg
