@@ -421,7 +421,7 @@ community:
 
   - name: GDG Cloud Torino 
     img: gdgcloudtorino.png
-    url: https://gdg.community.dev/gdg-torino/
+    url: https://gdg.community.dev/gdg-cloud-torino/
     tags: [ dxday, incontrodevops, cssday, jsday, uxday, containerday, devsecops, reactjsday, vueday, angularday, blockchainday ]  
   
   - name: GDG Padova
