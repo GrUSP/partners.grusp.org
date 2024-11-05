@@ -92,10 +92,14 @@ media:
 
 
 community:
+  - name: Javascript Zurich
+    img: JavaScriptZurich.svg
+    url: https://www.meetup.com/javascript-zurich/events/304093740
+    tags: [ dx, cssday, jsday, reactjsday, angularday ]
 
   - name: Digital Ethics Forum
     img: sloweb.svg
-    url: Digital Ethics Forum
+    url: https://www.digitalethicsforum.com/
     tags: [ uxday ]
 
   - name: Vue.js Varese
