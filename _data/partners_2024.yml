@@ -95,6 +95,11 @@ media:
     url: https://thisweekinreact.com/?utm_source=reactjsday-website
     tags: [ reactjsday ]
 
+  - name: Dev Dojo IT
+    img: devdojo.svg
+    url: https://www.twitch.tv/devdojo_it/
+    tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
+
 community:
 
   - name: Digital Ethics Forum
