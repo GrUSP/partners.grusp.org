@@ -606,7 +606,7 @@ community:
   - name: Reactjs Milano
     img: reactjsmilano.svg
     url: https://www.meetup.com/react-js-milano/
-    tags: [ reactjsday ]
+    tags: [ dxday, jsday, reactjsday ]
     
   - name: Future Frontend
     img: futurefrontend.svg
