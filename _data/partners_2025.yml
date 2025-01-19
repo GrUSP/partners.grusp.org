@@ -97,6 +97,12 @@ media:
 
 
 community:
+  
+  - name: AWS User Group Venezia
+    img: awsusergroupve.svg
+    url: https://www.meetup.com/aws-user-group-venezia/
+    tags: [ idi, mlops, containerday, devsecops ]
+
   - name: GDG Genova
     img: gdggenova.svg
     url: https://gdg.community.dev/gdg-genova/
