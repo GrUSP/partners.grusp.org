@@ -58,6 +58,11 @@ media:
     img: codemotion.png
     url: https://codemo.tech/partners
     tags: [ dxday, incontrodevops, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
+
+  - name: Stickermule
+    img: stickermule.svg
+    url: https://www.stickermule.com/it
+    tags: [ dxday, incontrodevops, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday, blockchainday ]
     
 #  - name: Manning
 #    img: manning.png
