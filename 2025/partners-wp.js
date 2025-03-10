@@ -39,7 +39,7 @@
             ha = d.createElement('A');
             ha.setAttribute('href', v.url.replace(/%name%/g, encodeURIComponent(name)));
             ha.setAttribute('target', '_blank');
-            ha.setAttribute('aria-title', v.name);
+            ha.setAttribute('aria-label', v.name);
             ha.className = 'card-link';
 
             hd = d.createElement('DIV');
