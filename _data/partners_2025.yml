@@ -102,6 +102,11 @@ media:
 
 
 community:
+
+  - name: CloudConf
+    img: cloudconflogo.svg
+    url: https://2025.cloudconf.it/
+    tags: [ dx, idi, mlops, jsday, phpday, containerday, devsecops, reactjsday, laravelday, angularday ]
   
   - name: AWS User Group Venezia
     img: awsusergroupve.svg
