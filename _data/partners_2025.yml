@@ -104,7 +104,7 @@ media:
 community:
 
   - name: CloudConf
-    img: cloudconflogo.svg
+    img: cloudconf.svg
     url: https://2025.cloudconf.it/
     tags: [ dx, idi, mlops, jsday, phpday, containerday, devsecops, reactjsday, laravelday, angularday ]
   
