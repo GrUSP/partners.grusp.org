@@ -85,6 +85,11 @@ media:
     url: https://www.html.it/
     tags: [ dxday, incontrodevops, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday  ]
 
+  - name: TuttoITS
+    img: tuttoits.svg
+    url: https://www.tuttoits.it/
+    tags: [ dxday, incontrodevops, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday  ]
+
   - name: SecurityCert
     img: securitycert.svg
     url: https://www.securitycert.it/
