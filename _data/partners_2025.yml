@@ -103,6 +103,11 @@ media:
 
 community:
 
+  - name: Agile Lean Tuscany
+    img: alt.svg
+    url: https://www.meetup.com/ALT-AGILE-LEAN-TUSCANY
+    tags: [ uxday ]
+
   - name: CloudConf
     img: cloudconf.svg
     url: https://2025.cloudconf.it/
