@@ -112,7 +112,7 @@ media:
 
 community:
 
-- name: Larabelles
+  - name: Larabelles
     img: larabelles.png
     url: https://larabelles.com/
     tags: [ laravelday, phpday ]
