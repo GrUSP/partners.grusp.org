@@ -105,8 +105,17 @@ media:
     url: https://www.twitch.tv/devdojo_it/
     tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
+  - name: Certification for Laravel
+    img: cfl.png
+    url: https://www.certificationforlaravel.com/
+    tags: [ laravelday ]
 
 community:
+
+- name: Larabelles
+    img: larabelles.png
+    url: https://larabelles.com/
+    tags: [ laravelday, phpday ]
 
   - name: Agile Lean Tuscany
     img: alt.svg
