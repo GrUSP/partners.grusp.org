@@ -106,7 +106,7 @@ media:
     tags: [ dxday, idi, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
   - name: Certification for Laravel
-    img: cfl.png
+    img: CFL.png
     url: https://www.certificationforlaravel.com/
     tags: [ laravelday ]
 
