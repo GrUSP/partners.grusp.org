@@ -787,3 +787,8 @@ community:
     img: italiaos.svg
     url: https://italiaopensource.com/communities
     tags: [ incontrodevops, containerday, devsecops ]
+
+  - name: GoLang Roma
+    img: golangroma.png
+    url: https://www.golangroma.it/
+    tags: [ dxday, IDI, containerday, devsecopsday ]
