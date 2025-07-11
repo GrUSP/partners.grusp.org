@@ -49,9 +49,9 @@ media:
 #   url: https://www.presenta.cc/
 #   tags: [ uxday, rubyday, containerday, devsecops, reactjsday, vueday, angularday ]
     
-  - name: KCD Italy
-    img: kcditaly.svg
-    url: https://community.cncf.io/kcd-italy/
+  - name: Cloud Native Days Italia
+    img: cloudnativedays.png
+    url: https://cloudnativedaysitaly.org/
     tags: [ dxday, incontrodevops, containerday, devsecops ]
     
   - name: Codemotion
