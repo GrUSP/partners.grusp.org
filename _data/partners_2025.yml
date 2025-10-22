@@ -4,10 +4,10 @@ media:
 #      url: https://www.techevents.online/
 #      tags: [ cssday, rubyday, vueday, phpday, incontrodevops, jsday, containerday, angularday ]
 
-  - name: Node.TLV
-    img: nodetlv.svg
-    url: https://www.nodetlv.com/
-    tags: [ jsday ]
+  - name: ctrlsecday
+    img: ctrlsecday.svg
+    url: https://ctrlsecday.it/
+    tags: [ containerday, devsecops ]
     
   - name: Krazydev FRIULI VENEZIA GIULIA
     img: krazydev.svg
