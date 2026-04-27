@@ -285,7 +285,7 @@ community:
 
   - name: GDG Venezia
     img: gdgvenezia.svg
-    url: https://gdg.community.dev/gdg-valle-daosta/
+    url: https://gdg.community.dev/gdg-venezia/
     tags: [ dxday, incontrodevops, cssday, jsday, phpday, uxday, rubyday, containerday, devsecops, reactjsday, laravelday, vueday, angularday ]
 
   - name: DevelopersLife
