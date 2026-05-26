@@ -23,7 +23,12 @@ media:
     img: devmy.png
     url: https://devmy.it/
     tags: [ dxday, incontrodevops, cssday, jsday, phpday, uxday, containerday, reactjsday, angularday ]
-    
+
+  - name: diParola
+    img: diparola.svg
+    url: https://www.diparolafest.it/
+    tags: [ uxday, cssday ]
+
 # - name: No Fluff Jobs
 #    img: nofluffjobsblack.svg
 #    url: https://nofluffjobs.com/?utm_source=partner_website&utm_medium=logo&utm_campaign=patronage&utm_term=&utm_content=grusp
